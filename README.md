@@ -1,6 +1,8 @@
 # ata.fr
 Page d'accueil de l'Association Toulousaine d'Aquaponie, à retravailler pour la conception d'un site web complet.
 
+La page unique créée et hébergée via gandi est visible ici : http://ata.gandi.ws/
+
 This is the landing page project that should lead us to the conception of the full ATA website.</br>
 The domain name would be aquaponie-toulouse.fr
 
